@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fitriakurniasari
 - 👀 I’m interested in UX design & UX research
-- 🌱 I’m currently learning UX design, html,css
+- 🌱 I’m currently learning UX design & research
 - 💞️ I’m looking to collaborate on UX design & UX research
 - 📫 How to reach me fitriakurniasari@gmail.com
 
